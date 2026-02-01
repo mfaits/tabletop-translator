@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+
+# Secrets / credentials
+*gcloud*.json
+*.env
+config.json
+
+# Logs / audio
+*.wav
